@@ -18,7 +18,7 @@
 
 Склонируйте репозиторий на свой компьютер:
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/raison-collab/PasswordHasher
 ```
 
 ### Шаг2. Добавление расширения в браузер
