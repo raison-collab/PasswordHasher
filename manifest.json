@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Password Hasher",
+    "version": "1.0",
+    "description": "Генерирует SHA‑256 хэш на основе запоминаемого пароля.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": []
+  }
+  
